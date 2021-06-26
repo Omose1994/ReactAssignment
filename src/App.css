@@ -1,0 +1,37 @@
+
+.bold {
+  font-weight: bold;
+  font-size: xx-large;
+  color:cornflowerblue;
+  text-shadow: 2px 2px 5px black;
+}
+
+.container {
+  background-color: rgb(209, 199, 172);
+  font-weight: bold;  
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: yellowgreen;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar-brand {
+ text-shadow: 2px 2px 5px yellowgreen;
+}
